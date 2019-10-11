@@ -1,2 +1,2 @@
 # sort-python
-bubble sort in python
+adding all sorting algorithms in python
